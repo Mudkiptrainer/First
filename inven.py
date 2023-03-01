@@ -1,5 +1,5 @@
 print('hello')
-for i in len("bitches"):
+for i in range(len("bitches")):
     print (i)
 
 
